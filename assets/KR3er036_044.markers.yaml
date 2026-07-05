@@ -5,7 +5,6 @@ markers:
   body:
   - {type: xml-element, offset: 12, content: '', id: KR3er036_jc_044-d46.d2.d2p2, name: p, role: open, attrs: {'xml:id': KR3er036_jc_044-d46.d2.d2p2}}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3er036_jc_044-d46.d2.d2.p2s1}
-  - {type: substitution, offset: 118, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: xml-element, offset: 148, content: '', id: KR3er036_jc_044-d46.d2.d2p2_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_044-d46.d2.d2p2}}
   - {type: xml-element, offset: 148, content: '', id: KR3er036_jc_044-d46.d2.d2p4, name: p, role: open, attrs: {'xml:id': KR3er036_jc_044-d46.d2.d2p4}}
   - {type: 'tls:seg', offset: 148, content: '', id: KR3er036_jc_044-d46.d2.d2.p4s1}
@@ -296,7 +295,6 @@ markers:
   - {type: xml-element, offset: 1545, content: '', id: KR3er036_jc_044-d46.d3.d3p8_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_044-d46.d3.d3p8}}
   - {type: xml-element, offset: 1545, content: '', id: KR3er036_jc_044-d46.d3.d3p10, name: p, role: open, attrs: {'xml:id': KR3er036_jc_044-d46.d3.d3p10}}
   - {type: 'tls:seg', offset: 1545, content: '', id: KR3er036_jc_044-d46.d3.d3.p10s1}
-  - {type: substitution, offset: 1558, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: xml-element, offset: 1560, content: '', id: KR3er036_jc_044-d46.d3.d3p10_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_044-d46.d3.d3p10}}
   - {type: xml-element, offset: 1560, content: '', id: KR3er036_jc_044-d46.d3.d3p12, name: p, role: open, attrs: {'xml:id': KR3er036_jc_044-d46.d3.d3p12}}
   - {type: 'tls:seg', offset: 1560, content: '', id: KR3er036_jc_044-d46.d3.d3.p12s1}
@@ -352,4 +350,4 @@ markers:
   - {type: 'tls:seg', offset: 1677, content: '', id: KR3er036_jc_044-d46.d3.d4.p12s1}
   - {type: xml-element, offset: 1688, content: '', id: KR3er036_jc_044-d46.d3.d4p12_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_044-d46.d3.d4p12}}
   back: []
-hash: sha256:395ac53e5b57e593a82a75dc69173fcad09dbb5a7ea00e81d33b34142a4568a8
+hash: sha256:d4987a47c6aed9eee29c1365b9208121212e9626c543f49ae9c0eca64081df1d

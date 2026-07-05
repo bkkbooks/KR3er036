@@ -37,7 +37,6 @@ markers:
   - {type: xml-element, offset: 458, content: '', id: KR3er036_jc_031-d33.d2.d5p2, name: p, role: open, attrs: {'xml:id': KR3er036_jc_031-d33.d2.d5p2}}
   - {type: 'tls:seg', offset: 458, content: '', id: KR3er036_jc_031-d33.d2.d5.p2s1}
   - {type: 'tls:seg', offset: 473, content: '', id: KR3er036_jc_031-d33.d2.d5.p2s2}
-  - {type: substitution, offset: 562, original: 郄, replacement: 郤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4285}}
   - {type: xml-element, offset: 574, content: '', id: KR3er036_jc_031-d33.d2.d5p2_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_031-d33.d2.d5p2}}
   - {type: xml-element, offset: 574, content: '', id: KR3er036_jc_031-d33.d2.d5p4, name: p, role: open, attrs: {'xml:id': KR3er036_jc_031-d33.d2.d5p4}}
   - {type: 'tls:seg', offset: 574, content: '', id: KR3er036_jc_031-d33.d2.d5.p4s1}
@@ -414,7 +413,6 @@ markers:
   - {type: xml-element, offset: 1855, content: '', id: KR3er036_jc_031-d33.d3.d7p4_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_031-d33.d3.d7p4}}
   - {type: xml-element, offset: 1855, content: '', id: KR3er036_jc_031-d33.d3.d7p6, name: p, role: open, attrs: {'xml:id': KR3er036_jc_031-d33.d3.d7p6}}
   - {type: 'tls:seg', offset: 1855, content: '', id: KR3er036_jc_031-d33.d3.d7.p6s1}
-  - {type: substitution, offset: 1863, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4558}}
   - {type: xml-element, offset: 1874, content: '', id: KR3er036_jc_031-d33.d3.d7p6_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_031-d33.d3.d7p6}}
   - {type: xml-element, offset: 1874, content: '', id: KR3er036_jc_031-d33.d3.d7p8, name: p, role: open, attrs: {'xml:id': KR3er036_jc_031-d33.d3.d7p8}}
   - {type: 'tls:seg', offset: 1874, content: '', id: KR3er036_jc_031-d33.d3.d7.p8s1}
@@ -678,4 +676,4 @@ markers:
   - {type: 'tls:seg', offset: 2505, content: '', id: KR3er036_jc_031-d33.d3.d9.p46s1}
   - {type: xml-element, offset: 2528, content: '', id: KR3er036_jc_031-d33.d3.d9p46_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_031-d33.d3.d9p46}}
   back: []
-hash: sha256:72a51b274141d66198ff2a66ce208d300aab5fc498c1bd4f0fe95b1d73bafdc9
+hash: sha256:04461f58a52c7d53059efb6a09f90c78ba796e1a6f5501287fccc211b76f2a62
