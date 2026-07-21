@@ -1,10 +1,9 @@
 canonical_identifier: bkk:krp/KR3er036/jc/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 2, content: '', id: KR3er036_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3er036_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 2, content: '', id: KR3er036_jc_000-d2.p2s1}
   - {type: xml-element, offset: 236, content: '', id: KR3er036_jc_000-d2p2_end, name: p, role: close, attrs: {'xml:id': KR3er036_jc_000-d2p2}}
-  body: []
   back: []
-hash: sha256:762115894eeddc89e6aa72ea2305424c31ac8c8a4e8ebd0b9e9d5d0d50236b63
+hash: sha256:3b2a8bf7aa99203ae75e281e33d7d45a7493b70f75fc746a8690283801bc69be

@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3er036/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 原序此編輯於會稽徐彥純吳陵劉宗厚續有增益皆明於醫者凡五十卷門分類集於論病因證治條理粲然既詳備矣夫醫家神農軒岐伊尹及秦越人張仲景之書萬世所宗不可易也歷晉唐宋代有明者近代張元素起北方蓋得神授深造間奧再傳李明之二傳王好古南方朱彥修得私淑馬遂為醫家之正派彥純宗厚又私淑彥修者也論者謂元素醫家之王道蓋王道以養民為本元素之法厚脾土為要此知本之務也是編主素難金匱及元素一派之旨若諸家治法不倍此者亦旁採而附益之雖中醫執此施治可以成功如病者有能知之亦必不為庸醫所誤其所濟利豈小補哉東里楊士奇
   hash: sha256:ac7ce2763a5ab3344571bd77f8c004b9a1f1c39cf991eb3ca2be88e19fa2101c
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3er036_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 玉機微義
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3er036.xml
-hash: sha256:c3a3cdd98d55a1942c5140e86a5ad1820f6604fef6df561926d3fb4471d8ae27
+hash: sha256:16eb8a91c0da0ad6eb0f3f19aae71a7f324a737151c390f65bc685ded3aeaca5

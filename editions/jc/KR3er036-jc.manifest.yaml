@@ -16,7 +16,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er036_000-jc.yaml, hash: 'sha256:c3a3cdd98d55a1942c5140e86a5ad1820f6604fef6df561926d3fb4471d8ae27'}
+  - {seq: 0, filename: KR3er036_000-jc.yaml, hash: 'sha256:16eb8a91c0da0ad6eb0f3f19aae71a7f324a737151c390f65bc685ded3aeaca5'}
   - {seq: 1, filename: KR3er036_001-jc.yaml, hash: 'sha256:7da6dddfbc5d0d73492f3c2858e8a87ca25d28aace0baa2ddda5d31f3b91daad'}
   - {seq: 2, filename: KR3er036_002-jc.yaml, hash: 'sha256:f64cce805d9a21439d6103f694d1870a46eeab42ac8632026896ca482621d785'}
   - {seq: 3, filename: KR3er036_003-jc.yaml, hash: 'sha256:c3c26f94910d64c707d95de57c7c5d758e563b14a1c47111e3b9a3dd3e70f013'}
@@ -68,7 +68,7 @@ assets:
   - {seq: 49, filename: KR3er036_049-jc.yaml, hash: 'sha256:be61e252543c7ed36d890aca387296b8058fd3aab19e770147bf90720e2de865'}
   - {seq: 50, filename: KR3er036_050-jc.yaml, hash: 'sha256:e8bf6ec9d35b7a027e9b8bca38abbb2e1f5b38974ced40daee755ac73d651eb8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er036_000-jc.markers.yaml, hash: 'sha256:762115894eeddc89e6aa72ea2305424c31ac8c8a4e8ebd0b9e9d5d0d50236b63'}
+  - {seq: 0, role: markers, filename: assets/KR3er036_000-jc.markers.yaml, hash: 'sha256:3b2a8bf7aa99203ae75e281e33d7d45a7493b70f75fc746a8690283801bc69be'}
   - {seq: 1, role: markers, filename: assets/KR3er036_001-jc.markers.yaml, hash: 'sha256:7dcaf4a4464c4b173fca4ff2749795d5e793c12993b56a932ca8bf18e37f97c6'}
   - {seq: 2, role: markers, filename: assets/KR3er036_002-jc.markers.yaml, hash: 'sha256:a24f4f94eb23b1fc98585d7bfbe701b021cb9fb760806b877d307229e9c21cf5'}
   - {seq: 3, role: markers, filename: assets/KR3er036_003-jc.markers.yaml, hash: 'sha256:107a984047ab6aeae2e354b75f921a602ef18a4fe2aaf1d8b9c299e5fca9f409'}
@@ -124,7 +124,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er036_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 236
   label: 原序
@@ -8830,4 +8830,4 @@ table_of_contents:
   label: 治瘡疹之劑
   type: section
   level: 3
-hash: sha256:7917860cd669ae69f74fdef7f452c933c4a52c1b2bfeffdf192229a07894285e
+hash: sha256:790e1d4a505a670952ac8d9af824f53d836ae447044e04d3c539c805b7e3dcf3
